@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
+photoprism/photoprism:latest
+plexinc/pms-docker:latest
