@@ -4,12 +4,12 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#ghcr.io/immich-app/immich-server:release
-#ghcr.io/immich-app/immich-machine-learning:release
-#photoprism/photoprism:latest
-#plexinc/pms-docker:latest
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
 #docker.io/redis:6.2-alpine@sha256:328fe6a5822256d065debb36617a8169dbfbd77b797c525288e465f56c1d392b
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
+#photoprism/photoprism:latest
+#plexinc/pms-docker:latest
 #tinymediamanager/tinymediamanager
 #cloudnas/clouddrive2-unstable
-ghcr.io/immich-app/immich-cli:latest
+#ghcr.io/immich-app/immich-cli:latest
