@@ -15,5 +15,9 @@
 #ghcr.io/immich-app/immich-cli:latest
 
 #talebook云书架 
-talebook/talebook
-ghcr.io/cxfksword/douban-api-rs
+#talebook/talebook
+#ghcr.io/cxfksword/douban-api-rs
+
+#navidrome音乐平台
+deluan/navidrome:latest
+xhongc/music_tag_web:latest
