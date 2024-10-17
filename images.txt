@@ -14,7 +14,7 @@
 #photoprism/photoprism:latest
 
 #PLEX
-plexinc/pms-docker:latest
+#plexinc/pms-docker:latest
 
 #tinymediamanager/tinymediamanager
 #cloudnas/clouddrive2-unstable
@@ -30,3 +30,6 @@ plexinc/pms-docker:latest
 
 #memos碎片记录
 #neosmemo/memos:stable
+
+#dns docker
+sameersbn/bind:9.16.1-20200524
