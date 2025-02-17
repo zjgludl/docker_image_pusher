@@ -14,7 +14,7 @@ ghcr.io/immich-app/immich-machine-learning:release
 #photoprism/photoprism:latest
 
 #PLEX
-#plexinc/pms-docker:latest
+plexinc/pms-docker:latest
 
 #tinymediamanager/tinymediamanager
 #cloudnas/clouddrive2-unstable
