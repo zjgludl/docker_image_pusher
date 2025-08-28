@@ -10,9 +10,9 @@ ghcr.io/immich-app/immich-server:release
 
 ghcr.io/immich-app/immich-machine-learning:release
 
-docker.io/redis:6.2-alpine@sha256:148bb5411c184abd288d9aaed139c98123eeb8824c5d3fce03cf721db58066d8:release
+docker.io/redis:6.2-alpine@sha256:148bb5411c184abd288d9aaed139c98123eeb8824c5d3fce03cf721db58066d8
 
-ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0:release
+ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0
 
 photoprism/photoprism:latest
 
