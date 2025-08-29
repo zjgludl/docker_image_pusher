@@ -5,8 +5,12 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+#emby
+emby/embyserver:4.8.11.0
+
+
 #lucky反向代理
-gdy666/lucky:latest
+#gdy666/lucky:latest
 
 ##immich 
 #ghcr.io/immich-app/immich-server:release
@@ -22,6 +26,8 @@ gdy666/lucky:latest
 #PLEX
 #plexinc/pms-docker:latest
 
+
+
 #tinymediamanager/tinymediamanager
 #cloudnas/clouddrive2-unstable
 #ghcr.io/immich-app/immich-cli:latest
@@ -35,7 +41,7 @@ gdy666/lucky:latest
 #xhongc/music_tag_web:latest
 
 #memos碎片记录
-neosmemo/memos:stable
+#neosmemo/memos:stable
 
 #dns docker
 #sameersbn/bind:9.16.1-20200524
