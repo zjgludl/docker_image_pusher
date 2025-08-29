@@ -6,8 +6,10 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #emby
-emby/embyserver:4.8.11.0
+#emby/embyserver:4.8.11.0
 
+xhofe/alist:v3.30.0
+cloudnas/clouddrive2
 
 #lucky反向代理
 #gdy666/lucky:latest
