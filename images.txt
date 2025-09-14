@@ -12,7 +12,7 @@
 #cloudnas/clouddrive2
 
 #lucky反向代理
-#gdy666/lucky:latest
+gdy666/lucky:latest
 
 ##immich 
 ghcr.io/immich-app/immich-server:release
@@ -40,7 +40,7 @@ ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:32324a2f41
 #xhongc/music_tag_web:latest
 
 #memos碎片记录
-#neosmemo/memos:stable
+neosmemo/memos:stable
 
 #dns docker
 #sameersbn/bind:9.16.1-20200524
