@@ -9,7 +9,7 @@
 #emby/embyserver:4.8.11.0
 
 #xhofe/alist:v3.30.0
-#cloudnas/clouddrive2
+cloudnas/clouddrive2
 
 #lucky反向代理
 gdy666/lucky:latest
@@ -29,15 +29,14 @@ ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:32324a2f41
 
 #tinymediamanager/tinymediamanager
 #cloudnas/clouddrive2-unstable
-#ghcr.io/immich-app/immich-cli:latest
 
 #talebook云书架 
-#talebook/talebook
-#ghcr.io/cxfksword/douban-api-rs
+talebook/talebook
+ghcr.io/cxfksword/douban-api-rs
 
 #navidrome音乐平台
 #deluan/navidrome:latest
-#xhongc/music_tag_web:latest
+xhongc/music_tag_web:latest
 
 #memos碎片记录
 neosmemo/memos:stable
