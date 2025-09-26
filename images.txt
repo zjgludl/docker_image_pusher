@@ -45,5 +45,8 @@ neosmemo/memos:stable
 #sameersbn/bind:9.16.1-20200524
 
 #aira2
-p3terx/aria2-pro
-p3terx/ariang
+#p3terx/aria2-pro
+#p3terx/ariang
+
+#xunlei
+cnk3x/xunlei:latest
