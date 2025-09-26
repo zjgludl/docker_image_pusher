@@ -44,3 +44,6 @@ neosmemo/memos:stable
 #dns docker
 #sameersbn/bind:9.16.1-20200524
 
+#aira2
+p3terx/aria2-pro
+p3terx/ariang
