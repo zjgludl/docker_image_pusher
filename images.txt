@@ -53,3 +53,7 @@ neosmemo/memos:stable
 
 #qbittorrent
 lscr.io/linuxserver/qbittorrent:latest
+
+#portainer
+portainer/portainer-ce:latest
+
