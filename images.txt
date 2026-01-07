@@ -57,3 +57,5 @@ lscr.io/linuxserver/qbittorrent:latest
 #portainer
 portainer/portainer-ce:latest
 
+#openlist
+openlistteam/openlist:latest
