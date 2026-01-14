@@ -59,3 +59,5 @@ portainer/portainer-ce:latest
 
 #openlist
 openlistteam/openlist:latest
+
+syncthing/syncthing:latest
