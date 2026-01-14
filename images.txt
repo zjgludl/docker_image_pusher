@@ -49,7 +49,7 @@ neosmemo/memos:stable
 #p3terx/ariang
 
 #xunlei
-#cnk3x/xunlei:latest
+cnk3x/xunlei:latest
 
 #qbittorrent
 lscr.io/linuxserver/qbittorrent:latest
