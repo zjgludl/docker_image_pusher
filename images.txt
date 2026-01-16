@@ -61,3 +61,6 @@ portainer/portainer-ce:latest
 openlistteam/openlist:latest
 
 syncthing/syncthing:latest
+
+booklore/booklore:latest
+lscr.io/linuxserver/mariadb:11.4.5
