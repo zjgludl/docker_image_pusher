@@ -36,7 +36,7 @@ ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:32324a2f41
 
 #navidrome音乐平台
 #deluan/navidrome:latest
-#xhongc/music_tag_web:latest
+xhongc/music_tag_web:latest
 
 #memos碎片记录
 neosmemo/memos:stable
