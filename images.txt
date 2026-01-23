@@ -66,3 +66,5 @@ booklore/booklore:latest
 lscr.io/linuxserver/mariadb:11.4.5
 
 dpanel/dpanel:latest-debian
+
+ghcr.io/koodo-reader/koodo-reader:master
