@@ -70,3 +70,5 @@ dpanel/dpanel:latest-debian
 ghcr.io/koodo-reader/koodo-reader:master
 
 fnsys/dockhand:latest
+
+ghcr.io/wttwins/wrong-notebook:latest
