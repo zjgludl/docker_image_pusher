@@ -67,10 +67,5 @@ lscr.io/linuxserver/mariadb:11.4.5
 
 dpanel/dpanel:latest-debian
 
-ghcr.io/koodo-reader/koodo-reader:master
+ghcr.io/calibrain/shelfmark:latest
 
-fnsys/dockhand:latest
-
-ghcr.io/wttwins/wrong-notebook:latest
-
-cloudflare/cloudflared:latest
