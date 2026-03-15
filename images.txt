@@ -70,4 +70,6 @@ dpanel/dpanel:latest-debian
 #ghcr.io/calibrain/shelfmark:latest
 joyqi/typecho:nightly-php7.4-apache
 
-gravityle/nullbr115:latest
+ghcr.io/sing-box/s-ui:latest
+
+
