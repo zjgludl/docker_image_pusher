@@ -1,1 +1,1 @@
-ghcr.io/sing-box/s-ui:latest
+alireza7/s-ui:latest
