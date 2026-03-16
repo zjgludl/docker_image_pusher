@@ -1,3 +1,1 @@
-ghcr.io/metacubex/metacubexd:latest
-
-
+haishanh/yacd:latest
