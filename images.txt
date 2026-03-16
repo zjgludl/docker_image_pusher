@@ -1,1 +1,1 @@
-alireza7/s-ui:latest
+metacubex/mihomo:latest
