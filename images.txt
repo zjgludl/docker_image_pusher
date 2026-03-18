@@ -1,1 +1,1 @@
-haishanh/yacd:latest
+openlistteam/openlist:latest
